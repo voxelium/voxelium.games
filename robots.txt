@@ -11,5 +11,5 @@ Disallow: /*_escaped_fragment_*
 Disallow:
 
 
-Sitemap: http://project7483437.tilda.ws/sitemap.xml
-Host: project7483437.tilda.ws
+Sitemap: http://voxelium.games/sitemap.xml
+Host: voxelium.games
