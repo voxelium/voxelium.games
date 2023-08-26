@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.Voxelium.KittyPrankster",
+      "sha256_cert_fingerprints": [
+        "51:D2:5F:55:32:94:13:C2:3E:BC:09:09:5B:4B:42:29:8B:48:5F:58:08:47:F7:91:C7:8F:C0:5D:A2:90:66:33"
+      ]
+    }
+  }
+]
