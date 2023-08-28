@@ -1,3 +1,5 @@
+google.com, pub-3978670959316903, DIRECT, f08c47fec0942fa0
+
 lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
 Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
