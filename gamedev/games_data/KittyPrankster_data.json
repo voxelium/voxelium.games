@@ -1,8 +1,9 @@
 {
 
- "Name" : "Mr, Mushroom",
+ "Name" : "Kitty Prankster",
  "Description" : "New updates are available, we added more cool levels, check it now",
- "Version" : "1.3",
- "Url" : "https://play.google.com/store/apps/dev?id=xxxxxxxxxxxxx"
+ "Version" : "1.06",
+ "url_android" : "https://play.google.com/store/apps/details?id=com.Voxelium.KittyPrankster"
+ "url_ios" : "https://apps.apple.com/us/app/kitty-prankster-3d-platformer/id6463510918"
  
 }
