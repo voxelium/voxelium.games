@@ -1,5 +1,7 @@
 google.com, pub-3978670959316903, DIRECT, f08c47fec0942fa0
-
+adsyield.com, 1233, DIRECT
+onetag.com, 7d9af0b85b5070e, DIRECT
+pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
 152media.info, 152M324, RESELLER
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
