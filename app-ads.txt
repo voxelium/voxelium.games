@@ -1,5 +1,3 @@
-google.com, pub-3978670959316903, DIRECT, f08c47fec0942fa0
-
 
 #Updated 7th October 2023
 #Appodeal
@@ -8,12 +6,11 @@ appodeal.com, 232934, DIRECT
 bidmachine.io, 232934, DIRECT
 
 #AdMob
-#Replace the Publisher_ID below with your Admob Publisher ID
-google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
+google.com, pub-3978670959316903, DIRECT, f08c47fec0942fa0
+
 #Meta-Audience
 #Replace the Business_ID below with your Meta Business ID
-facebook.com,Business_ID,RESELLER,c3e20eee3f780d68 
-#Add other networks if applicable
+#facebook.com,Business_ID,RESELLER,c3e20eee3f780d68 
 
 
 #Resellers
