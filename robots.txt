@@ -11,5 +11,5 @@ Disallow: /*_escaped_fragment_*
 Disallow:
 
 
-Sitemap: http://voxelium.games/sitemap.xml
-Host: voxelium.games
+Sitemap: https://voxelium.games/sitemap.xml
+Host: https://voxelium.games
